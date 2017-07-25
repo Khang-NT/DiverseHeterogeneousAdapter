@@ -1,4 +1,4 @@
-package com.marverenic.adapter;
+package org.khangnt.diverseheterogeneousadapter;
 
 import android.graphics.Canvas;
 import android.graphics.Rect;

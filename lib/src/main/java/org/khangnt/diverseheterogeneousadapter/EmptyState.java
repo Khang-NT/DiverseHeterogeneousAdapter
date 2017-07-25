@@ -1,4 +1,4 @@
-package com.marverenic.adapter;
+package org.khangnt.diverseheterogeneousadapter;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;

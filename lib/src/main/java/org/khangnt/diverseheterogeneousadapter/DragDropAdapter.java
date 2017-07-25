@@ -1,4 +1,4 @@
-package com.marverenic.adapter;
+package org.khangnt.diverseheterogeneousadapter;
 
 import android.os.Handler;
 import android.support.annotation.IdRes;

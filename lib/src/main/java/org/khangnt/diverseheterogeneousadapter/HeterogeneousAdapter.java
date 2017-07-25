@@ -1,4 +1,4 @@
-package com.marverenic.adapter;
+package org.khangnt.diverseheterogeneousadapter;
 
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
