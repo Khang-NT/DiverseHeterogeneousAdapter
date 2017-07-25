@@ -1,1 +1,1 @@
-include ':sample', ':diverseheterogeneousadapter'
+include ':sample', ':lib'

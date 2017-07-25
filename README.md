@@ -16,7 +16,7 @@ The data is also separated into Sections, but each Section can have more than on
 ## Gradle Installation
 ```
 dependencies {
-    compile 'org.khangnt.github:diverseheterogeneousadapter:0.1'
+    compile 'org.khangnt.diverseheterogeneousadapter:lib:0.1'
 }
 ```
 
